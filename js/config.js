@@ -8,6 +8,6 @@ const CONFIG = {
   customFolders: [
     "rupa",
     "lata",
-    "puja",
+    "pujaa",
   ]
 };
