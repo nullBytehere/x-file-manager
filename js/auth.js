@@ -6,9 +6,9 @@ const AUTH = {
     {
 
         "username": "admin",
-        "salt": "00e8ebe53227c78568f6e962c87a4e38",
-        "verify": "dd09401eb78c1a3d5e0ddacf99737c325c7a8085aa7ea61033f4797ddcbe850e",
-        "iv": "nNZQWiyyVx6hcajv",
+      "salt": "438a30acfd8fd5e176f3b604a07dbd53",
+    "verify": "5e26756bfae27f606854078d5bf55a42256f7977fe01a19132427a03504d796f",
+    "iv": "fnQMWZ6WQ7QHbx+A",
         "vault": "fkilmf6dgDZcEmvTgeXpHCbHfIgLkJGkvPSmKDdEaR5t3zTo+97uTqaCaR1Amw4ipiuhDPJskVWKJyshMAFpbLXXIkesEUkB1WnemRQ0/rzhr9oqx5D/VUY5iBhsAUTFwnV0AzjUrQKdcH1vkQ==",
         "folders": {
             "allow": "*",
