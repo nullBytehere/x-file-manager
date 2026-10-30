@@ -4,12 +4,11 @@ const AUTH = {
   idleMinutes: 30,      // auto sign-out when not "kept signed in" (0 = off)
   users: [
     {
-
-        "username": "admin",
-      "salt": "438a30acfd8fd5e176f3b604a07dbd53",
-    "verify": "5e26756bfae27f606854078d5bf55a42256f7977fe01a19132427a03504d796f",
-    "iv": "fnQMWZ6WQ7QHbx+A",
-        "vault": "fkilmf6dgDZcEmvTgeXpHCbHfIgLkJGkvPSmKDdEaR5t3zTo+97uTqaCaR1Amw4ipiuhDPJskVWKJyshMAFpbLXXIkesEUkB1WnemRQ0/rzhr9oqx5D/VUY5iBhsAUTFwnV0AzjUrQKdcH1vkQ==",
+    "username": "admin",
+    "salt": "70504425c87104f1236e3882e0337e25",
+    "verify": "302de16cc16ae245cc9a3539e7dee6c488963ef6e8a5ad2e67274d09cd3f089e",
+    "iv": "Xaka3peTN8RjCOK2",
+    "vault": "PGBMxHrQKU0usyp80ts06BKyrXFvVIXQOEINPdDhI4XgeSPwPGhIjypphHgi1t3CrGcb10ktIb40+60PduUUXUQkD4JmUG6+EprmvXPvAivGy40IOlEbXK6F9fXcGCPQP2/ITYfoQoP4YDd9QA==",
         "folders": {
             "allow": "*",
             "deny": []
